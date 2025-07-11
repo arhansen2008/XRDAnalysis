@@ -6,3 +6,13 @@
   howpublished = {\url{https://github.com/arhansen2008/XRDAnalysis}},
   note         = {Accessed July 2025}
 }
+
+@misc{hansen2025xrd,
+  author       = {Hansen, Alexander Ryan},
+  title        = {XRD Analysis Code},
+  year         = {2021},
+  publisher    = {GitHub},
+  doi          = {10.5281/zenodo.13629351},  % Replace with your actual DOI
+  url          = {https://doi.org/10.5281/zenodo.13629350},
+  note         = {Colorado School of Mines. Code available at \url{https://github.com/arhansen2008/XRDAnalysis}. ORCID: \url{https://orcid.org/0000-0002-7592-780X}. Accessed July 2025}
+}
