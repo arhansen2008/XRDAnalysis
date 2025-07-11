@@ -1,0 +1,8 @@
+@misc{hansen2021xrdanalysis,
+  author       = {Hansen, Andrew R.},
+  title        = {XRDAnalysis},
+  year         = {2021},
+  publisher    = {GitHub},
+  howpublished = {\url{https://github.com/arhansen2008/XRDAnalysis}},
+  note         = {Accessed July 2025}
+}
