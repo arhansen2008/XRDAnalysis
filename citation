@@ -1,16 +1,7 @@
-@misc{hansen2021xrdanalysis,
-  author       = {Hansen, Andrew R.},
-  title        = {XRDAnalysis},
-  year         = {2021},
-  publisher    = {GitHub},
-  howpublished = {\url{https://github.com/arhansen2008/XRDAnalysis}},
-  note         = {Accessed July 2025}
-}
-
 @misc{hansen2025xrd,
   author       = {Hansen, Alexander Ryan},
   title        = {XRD Analysis Code},
-  year         = {2021},
+  year         = {2025},
   publisher    = {GitHub},
   doi          = {10.5281/zenodo.158648381},  % Replace with your actual DOI
   url          = {https://doi.org/10.5281/zenodo.15864837},
